@@ -7,15 +7,25 @@ Download this beautiful free React Native starter kit, featuring a recipes app, 
 Features :-
 
 Recipes List: Browse through a collection of recipes.
+
 Categories: Filter recipes by different categories.
+
 Ingredients List: View the ingredients needed for each recipe.
+
 Recipe Details Screen: Access detailed information for each recipe, including steps and images.
+
 Photo Gallery: Visualize the recipe’s photos for better understanding.
+
 Search Functionality: Easily find recipes by name or ingredients.
+
 Recipes by Ingredient: Explore recipes based on selected ingredients.
+
 Drawer Menu: Navigate smoothly through the app.
+
 Modern UI Design: Sleek and responsive design elements.
+
 Expo Compatibility: Easy to run and test with Expo.
+
 Modular Codebase: Clean, well-organized code structure for easy maintenance and future development.
 
 
