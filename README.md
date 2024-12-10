@@ -10,12 +10,6 @@ To run the app, simply run
 
 ```yarn install && expo start```
 
-
-
-## Expo Demo
-
-<center><a href=""><img src="https://instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.20.29-PM.png" /></a></center>
-
 ## Features
 
 - Recipes List
